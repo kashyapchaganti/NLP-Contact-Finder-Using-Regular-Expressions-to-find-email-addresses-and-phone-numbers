@@ -1,0 +1,2 @@
+# NLP-Contact-Finder-Using-Regular-Expressions-to-find-email-addresses-and-phone-numbers
+This NLP project focuses on developing regular expressions to find email addresses and phone numbers, even in their obscured forms. The ContactFinder program processes text files with obscured contact information, applies regular expressions to extract the standard form, and compares the results with the correct answers
